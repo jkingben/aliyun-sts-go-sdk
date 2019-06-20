@@ -17,7 +17,7 @@
 - Go 1.5及以上
 
 ## 安装方法
-- 执行命令 `go get github.com/aliyun/aliyun-sts-go-sdk/sts`
+- 执行命令 `go get github.com/jkingben/aliyun-sts-go-sdk/sts`
 
 ## 使用方法
 ```go
